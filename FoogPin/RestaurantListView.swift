@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  RestaurantListView.swift
 //  FoogPin
 //
 //  Created by นางสาวณัฐภูพิชา อรุณกรพสุรักษ์ on 19/3/2568 BE.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct RestaurantListView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +20,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    RestaurantListView()
 }
