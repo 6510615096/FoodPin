@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		95C21A622D8A9F0E00B11312 /* FoogPin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoogPin.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		95C21A622D8A9F0E00B11312 /* FoodPin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodPin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		95C21A642D8A9F0E00B11312 /* FoogPin */ = {
+		95C21A642D8A9F0E00B11312 /* FoodPin */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = FoogPin;
+			path = FoodPin;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		95C21A592D8A9F0E00B11312 = {
 			isa = PBXGroup;
 			children = (
-				95C21A642D8A9F0E00B11312 /* FoogPin */,
+				95C21A642D8A9F0E00B11312 /* FoodPin */,
 				95C21A632D8A9F0E00B11312 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		95C21A632D8A9F0E00B11312 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				95C21A622D8A9F0E00B11312 /* FoogPin.app */,
+				95C21A622D8A9F0E00B11312 /* FoodPin.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		95C21A612D8A9F0E00B11312 /* FoogPin */ = {
+		95C21A612D8A9F0E00B11312 /* FoodPin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 95C21A702D8A9F0E00B11312 /* Build configuration list for PBXNativeTarget "FoogPin" */;
+			buildConfigurationList = 95C21A702D8A9F0E00B11312 /* Build configuration list for PBXNativeTarget "FoodPin" */;
 			buildPhases = (
 				95C21A5E2D8A9F0E00B11312 /* Sources */,
 				95C21A5F2D8A9F0E00B11312 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				95C21A642D8A9F0E00B11312 /* FoogPin */,
+				95C21A642D8A9F0E00B11312 /* FoodPin */,
 			);
-			name = FoogPin;
+			name = FoodPin;
 			packageProductDependencies = (
 			);
 			productName = FoogPin;
-			productReference = 95C21A622D8A9F0E00B11312 /* FoogPin.app */;
+			productReference = 95C21A622D8A9F0E00B11312 /* FoodPin.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 95C21A5D2D8A9F0E00B11312 /* Build configuration list for PBXProject "FoogPin" */;
+			buildConfigurationList = 95C21A5D2D8A9F0E00B11312 /* Build configuration list for PBXProject "FoodPin" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				95C21A612D8A9F0E00B11312 /* FoogPin */,
+				95C21A612D8A9F0E00B11312 /* FoodPin */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"FoogPin/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FoodPin/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,7 +279,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"FoogPin/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FoodPin/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		95C21A5D2D8A9F0E00B11312 /* Build configuration list for PBXProject "FoogPin" */ = {
+		95C21A5D2D8A9F0E00B11312 /* Build configuration list for PBXProject "FoodPin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				95C21A6E2D8A9F0E00B11312 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		95C21A702D8A9F0E00B11312 /* Build configuration list for PBXNativeTarget "FoogPin" */ = {
+		95C21A702D8A9F0E00B11312 /* Build configuration list for PBXNativeTarget "FoodPin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				95C21A712D8A9F0E00B11312 /* Debug */,
